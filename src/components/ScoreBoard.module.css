@@ -1,0 +1,8 @@
+.scoreBoard {
+    width: 30%
+}
+
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+}

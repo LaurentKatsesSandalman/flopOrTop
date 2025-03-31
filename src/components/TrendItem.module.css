@@ -1,0 +1,30 @@
+.itemContainer {
+    background-color: aquamarine;
+    border-radius: 15%;
+    padding: 1rem;
+    margin: 1rem;
+    width: min(10vw, 95%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.image {
+    width: 95%;
+    display: block;
+
+}
+
+.name {
+    margin: 1px
+}
+
+.button {
+    border: 0.5px solid #213547;
+    border-radius: 25%;
+    color: #213547;
+    font-weight: lighter;
+    font-size: 0.75rem;
+    padding: 0.25rem;
+}
